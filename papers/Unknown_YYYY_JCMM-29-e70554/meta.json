@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "c2de1953-9b9d-41b2-a327-10d89d4a1eaf",
+  "title": "JCMM-29-e70554",
+  "authors": [],
+  "year": null,
+  "venue": "",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 3,
+  "progress": 0,
+  "status": "todo",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-17T16:05:44.223Z",
+  "updatedAt": "2026-11-17T16:07:03.699Z",
+  "lastOpenedAt": "2026-11-17T16:07:03.699Z",
+  "lastViewedAt": "2026-11-17T16:07:03.699Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
