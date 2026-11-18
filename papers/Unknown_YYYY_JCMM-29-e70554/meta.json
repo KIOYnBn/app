@@ -15,12 +15,70 @@
   "url": "",
   "abstract": "",
   "createdAt": "2026-11-17T16:05:44.223Z",
-  "updatedAt": "2026-11-18T06:07:15.570Z",
-  "lastOpenedAt": "2026-11-18T06:07:15.570Z",
-  "lastViewedAt": "2026-11-18T06:07:15.570Z",
+  "updatedAt": "2026-11-18T10:49:38.573Z",
+  "lastOpenedAt": "2026-11-18T10:49:38.573Z",
+  "lastViewedAt": "2026-11-18T10:49:38.573Z",
   "pinned": false,
   "lastPage": 0,
-  "annotations": [],
+  "annotations": [
+    {
+      "id": "a-mwlz0zdb-70wnu",
+      "kind": "highlight",
+      "page": 1,
+      "color": "yellow",
+      "rects": [
+        {
+          "x": 0.2612607834572353,
+          "y": 0.32476782659869935,
+          "w": 0.1066555447048611,
+          "h": 0.013969787644515175
+        },
+        {
+          "x": 0.07619106078985637,
+          "y": 0.3507579815009258,
+          "w": 0.1822273276130698,
+          "h": 0.009589170745269382
+        }
+      ],
+      "text": "ty, Shanghai, China Correspondence: Zunping Ke (k",
+      "note": "",
+      "createdAt": "2026-11-18T10:21:06.959Z"
+    },
+    {
+      "id": "a-mwlz1748-fujn1",
+      "kind": "rect",
+      "page": 1,
+      "color": "purple",
+      "rects": [
+        {
+          "x": 0.685976613507538,
+          "y": 0.48782840709451825,
+          "w": 0.03988603988603989,
+          "h": 0.14846949601466464
+        }
+      ],
+      "text": "",
+      "note": "",
+      "createdAt": "2026-11-18T10:21:17.000Z"
+    },
+    {
+      "id": "a-mwlz6ptj-z1rqv",
+      "kind": "rect",
+      "page": 1,
+      "color": "purple",
+      "rects": [
+        {
+          "x": 0.0650058443824407,
+          "y": 0.4271158371875975,
+          "w": 0.8959377262579566,
+          "h": 0.25410687023598333
+        }
+      ],
+      "text": "",
+      "note": "",
+      "createdAt": "2026-11-18T10:25:34.519Z"
+    }
+  ],
   "annotationStyleVersion": 2,
   "styles": {
     "highlight": {
